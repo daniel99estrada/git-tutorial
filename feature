@@ -1,1 +1,1 @@
-feature 1 CONFLICT
+conflict
